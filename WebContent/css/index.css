@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image:url(../images/backgroud.jpg);
+	background-repeat:repeat-x;
+	font-family: "Courier New", Courier, monospace;
+}
+h1{
+	background-image:url(../images/dotty.gif);
+	background-position:bottom left;
+	background-repeat:repeat-x;
+	padding: 0px 0px 6px 0px;
+	color: #41667F;
+	text-align:center;
+}
+h3{
+	text-align:center;
+	padding: 0px 0px 6px 0px;
+	color: #41667F;
+	margin: 100px auto 1px auto;
+}
+#loginbox{
+	height:210px;
+	width:500px;
+	margin:auto;
+	background-color: #FFFFFF;
+	padding: 1em 1em 40px 1em;
+	background-image:url(../images/loginbox.jpg);
+	background-repeat:repeat-x;
+	background-position:left;
+}
+input.submit{
+	background-color: #06F;
+	background-color: transparent;
+	background-image:url(../images/submitbutton.jpg);
+	background-repeat: no-repeat;
+}

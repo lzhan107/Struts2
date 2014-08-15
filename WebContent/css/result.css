@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+.sortable{
+	background-color:#3CC;
+}
+tbody{
+	text-align:right;
+	background-color:#CCC;
+}
+a{
+	text-decoration:none;
+	color:#000000;
+}
